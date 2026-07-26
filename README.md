@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Ahmed Ibrahim 
+# I'm Ahmed Ibrahim 
 
 ### Mechatronics & Robotics Engineer · AI/CV Developer · Automation Enthusiast
 
@@ -15,15 +15,15 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation">
 
-### 🧑‍💻 About Me
+###  About Me
 
-🎓 **B.Sc. Mechatronics & Robotics Engineering** — King Salman International University (GPA: 3.283, Project: **A+**)
+ **B.Sc. Mechatronics & Robotics Engineering** — King Salman International University (GPA: 3.283, Project: **A+**)
 
-🤖 I build systems at the intersection of **AI**, **Robotics**, and **Industrial Automation**. My graduation project is a solar-powered autonomous agriculture robot that sees, thinks, and plants — all powered by self-taught machine learning.
+ I build systems at the intersection of **AI**, **Robotics**, and **Industrial Automation**. My graduation project is a solar-powered autonomous agriculture robot that sees, thinks, and plants — all powered by self-taught machine learning.
 
-🔭 Currently looking for opportunities in **AI/ML Engineering**, **Computer Vision**, **Robotics**, or **PLC/Automation**.
+ Currently looking for opportunities in **AI/ML Engineering**, **Computer Vision**, **Robotics**, or **PLC/Automation**.
 
-📍 Cairo, Egypt
+ Cairo, Egypt
 
 ---
 
@@ -69,24 +69,24 @@
 
 ---
 
-### 🏆 Featured Project
+###  Featured Project
 
 <table>
 <tr>
 <td width="600">
 
-#### 🌾 [Autonomous Precision Agriculture Robot](https://github.com/thebrave44/AgriBot-Autonomous-Precision-Agriculture)
+####  [Autonomous Precision Agriculture Robot](https://github.com/thebrave44/AgriBot-Autonomous-Precision-Agriculture)
 **Graduation Project — Grade: A+**
 
 A solar-powered field robot that autonomously analyzes soil, recommends the best crop, precision-plants seeds, and autonomously replants where needed.
 
 **My Role:** AI & Computer Vision Engineer (Team of 5)
 
-- 🧠 **XGBoost** crop recommendation → **98.4%** accuracy across 13 Egyptian crops
-- 👁️ **YOLOv26s** plant detection trained on **43,000+** curated images
-- 📊 Custom dataset from **60+** Egyptian Ministry of Agriculture bulletins
-- ⚡ **ONNX** edge deployment on Raspberry Pi 5
-- 🤗 Live demo on **Hugging Face Spaces**
+-  **XGBoost** crop recommendation → **98.4%** accuracy across 13 Egyptian crops
+-  **YOLOv26s** plant detection trained on **43,000+** curated images
+-  Custom dataset from **60+** Egyptian Ministry of Agriculture bulletins
+-  **ONNX** edge deployment on Raspberry Pi 5
+-  Live demo on **Hugging Face Spaces**
 
 </td>
 <td>
@@ -99,18 +99,9 @@ A solar-powered field robot that autonomously analyzes soil, recommends the best
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebrave44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebrave44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-### 📜 Certifications
+###  Certifications
 
 | Domain | Certification |
 |--------|--------------|
@@ -131,5 +122,6 @@ I'm actively looking for opportunities in **AI Engineering**, **Computer Vision*
 If you're hiring or know someone who is — let's talk! 🚀
 
 [![Email](https://img.shields.io/badge/ahmed.ibrahim4401@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.ibrahim4401@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-ibrahim-ali-abdeldaym)
 
 </div>
