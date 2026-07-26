@@ -99,7 +99,16 @@ A solar-powered field robot that autonomously analyzes soil, recommends the best
 
 ---
 
+###  Other Hardware & Automation Projects
 
+-  **Autonomous Obstacle-Avoiding Car:** Built from scratch using ATmega32 with bare-metal C drivers (DIO, PWM, Timers, ADC) and a modular HAL architecture.
+-  **Mobile Crane Robot:** Fabricated a motorized pulley-based crane with Bluetooth integration for remote smartphone control.
+-  **Otto Bipedal Walking Robot:** 3D-printed and programmed an Arduino Nano bipedal robot with custom walking gaits and ultrasonic obstacle avoidance.
+-  **IoT Gas Leakage Detector:** Developed an ESP32-based smart sensor system using an MQ-5 gas sensor for real-time Wi-Fi monitoring and alerts.
+-  **Line Tracking Car:** Built an autonomous vehicle utilizing IR sensors and custom-tuned PID control algorithms for smooth path following.
+-  **Solar CNC Laser Cutter:** Designed a solar-powered CNC machine, configuring stepper motors and G-code for precision engraving.
+
+---
 
 ###  Certifications
 
