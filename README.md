@@ -105,11 +105,11 @@ A solar-powered field robot that autonomously analyzes soil, recommends the best
 
 | Domain | Certification |
 |--------|--------------|
-| 🏭 PLC & Automation | SIMATIC Programming 1 in TIA Portal (TIA-PRO1) — AOI Academy |
-| 🤖 Robotics | Robot Kinematics & Dynamics — Northwestern University |
-| 📦 Embedded | Embedded Systems Diploma — AMIT Learning |
-| 🧠 AI | Introduction to Modern AI — Cisco |
-| 📋 Leadership | McKinsey Forward Program — McKinsey & Company |
+|  PLC & Automation | SIMATIC Programming 1 in TIA Portal (TIA-PRO1) — AOI Academy |
+|  Robotics | Robot Kinematics & Dynamics — Northwestern University |
+|  Embedded | Embedded Systems Diploma — AMIT Learning |
+|  AI | Introduction to Modern AI — Cisco |
+|  Leadership | McKinsey Forward Program — McKinsey & Company |
 
 ---
 
