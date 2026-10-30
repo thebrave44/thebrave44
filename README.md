@@ -78,6 +78,8 @@
 ####  [Autonomous Precision Agriculture Robot](https://github.com/thebrave44/AgriBot-Autonomous-Precision-Agriculture)
 **Graduation Project — Grade: A+**
 
+top 10 in the Tech Makers Challenge (a competition among all Egyptian universities, Oct 2026)
+
 A solar-powered field robot that autonomously analyzes soil, recommends the best crop, precision-plants seeds, and autonomously replants where needed.
 
 **My Role:** AI & Computer Vision Engineer (Team of 5)
