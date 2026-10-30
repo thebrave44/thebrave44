@@ -17,7 +17,7 @@
 
 ###  About Me
 
- **B.Sc. Mechatronics & Robotics Engineering** — King Salman International University (GPA: 3.283, Project: **A+**)
+ **B.Sc. Mechatronics & Robotics Engineering** — King Salman International University (GPA: 3.283, Project: **A+** and top 10 in the Tech Makers Challenge)
 
  I build systems at the intersection of **AI**, **Robotics**, and **Industrial Automation**. My graduation project is a solar-powered autonomous agriculture robot that sees, thinks, and plants — all powered by self-taught machine learning.
 
